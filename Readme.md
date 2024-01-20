@@ -24,6 +24,4 @@ Layout File: XML
 
 Minimum SDK: API Level 25
 
-To open the file: 
--GitHub Repository (370Fall23Anmol-Talwar/Assignment4/TipCalculator)
 
