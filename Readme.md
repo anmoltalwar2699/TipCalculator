@@ -1,5 +1,9 @@
 # TipCalculator App User Manual
 
+Also AVailable on Play Store
+
+https://play.google.com/store/apps/details?id=edu.qc.seclass.tipcalculator
+
 
 Welcome to the TipCalculator app! This app helps you calculate tips and totals based on your bill amount and party size. 
 
